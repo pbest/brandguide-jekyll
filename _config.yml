@@ -2,6 +2,9 @@
 title: Brand Guide Demo
 timezone: UTC
 collections:
+  logos:
+    title: Logos
+    output: true
   posts:
     title: Posts
     output: true
